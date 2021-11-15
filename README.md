@@ -10,7 +10,7 @@ The program plots the original shape along with the deformed shape. I included a
 The script prints out the node with the largest displacement and the magnitude of that displacement (actual displacement, not the magnified displacement). 
 It also prints out the magnitude of the maximum stress and the element where that occurs.  
 
-The following files were authored by Marshall Long.
+The following supporting files were authored by Marshall Long. 
 
 `femData.m` loads information on the 2D mesh from data files:
 * `mesh.txt` contains the x-y coordinates in an N x 2 array; N is the number of nodes. 
