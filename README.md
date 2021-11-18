@@ -1,7 +1,7 @@
 # FiniteElementAnalysis
 Finite Element Analysis in MATLAB using the Direct Stiffness Method.
 
-# Overview
+## Overview
 
 `femData.m` applies the Direct Stiffness Method (DSM) to calculate deformation (i.e., the displacements of each of the nodes) of an object represented 
 by a two-dimensional finite element discretization. I've included comments that outline each of the steps involved in the DSM process. 
